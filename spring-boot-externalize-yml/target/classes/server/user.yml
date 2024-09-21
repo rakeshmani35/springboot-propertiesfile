@@ -1,0 +1,15 @@
+user-details:
+  users:
+    -
+      username: admin
+      password: admin@10@
+      roles:
+        - READ
+        - WRITE
+        - VIEW
+        - DELETE
+    -
+      username: guest
+      password: guest@01
+      roles:
+        - VIEW

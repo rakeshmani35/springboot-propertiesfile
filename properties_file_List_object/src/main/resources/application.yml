@@ -1,0 +1,25 @@
+employees:
+  -
+    id: 1
+    name: John Doe
+    department: HR
+    position: Manager
+    salary: 50000
+  -
+    id: 2
+    name: Jane Smith
+    department: IT
+    position: Developer
+    salary: 60000
+  -
+    id: 3
+    name: Bob Johnson
+    department: Finance
+    position: Analyst
+    salary: 55000
+  -
+    id: 4
+    name: Alice Williams
+    department: IT
+    position: Tester
+    salary: 45000

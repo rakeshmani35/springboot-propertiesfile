@@ -1,0 +1,10 @@
+com\javacode\properties\yamlmap\prop\ServerProperties$Credential.class
+com\javacode\properties\yamllist\prop\UserProps.class
+com\javacode\properties\yamllist\prop\ApplicationProps.class
+com\javacode\properties\MapFromYaml.class
+com\javacode\properties\yamlmap\prop\ServerProperties.class
+com\javacode\properties\yaml\YamlFooProperties.class
+com\javacode\properties\YamlListApplication.class
+com\javacode\properties\ymlfactory\YamlPropertySourceFactory.class
+com\javacode\properties\YamlApplication.class
+com\javacode\properties\yamllist\prop\UserProps$User.class
